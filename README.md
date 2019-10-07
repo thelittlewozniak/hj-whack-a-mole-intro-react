@@ -4,18 +4,19 @@ Adapted from HackJam Whack a mole in Reason (https://github.com/IwanKaramazow/Re
 
 ## Install
 
+### Download the git project
 ```
 git clone [repo-link]
 ```
 
-### With npm
+### Install and launch with npm
 
 ```
 npm install
 npm start
 ```
 
-### With yarn
+### Install and launch With yarn
 
 ```
 yarn
