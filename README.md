@@ -37,13 +37,13 @@ Integrate this custom button in `App.js` :
 ```js
 <Button text='Start game!' />
 ```
+Note that this is not html but JSX: https://reactjs.org/docs/introducing-jsx.html
+This simplifies a dev's job and it is optional: https://reactjs.org/docs/react-without-jsx.html
 
 Now create the custom button component `Button.js`.
 
 1. It's a React Component that will render a `<button>` with a custom inner text
 2. To render the custom text in `App.js` use a **prop**: https://reactjs.org/docs/components-and-props.html
-
-Interesting stuff: https://reactjs.org/docs/introducing-jsx.html
 
 ## Create a static version of the board
 
